@@ -1,7 +1,7 @@
 NLog.Splunk.Simple
 ===================
 
-Splunk target for sending logs to splunk by /receivers/simple
+NLog target for sending logs to splunk by /receivers/simple
 
 ----------
 
