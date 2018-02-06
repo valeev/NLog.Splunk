@@ -1,4 +1,4 @@
-#NLog.Splunk.Simple
+NLog.Splunk.Simple
 ===================
 
 Splunk target for sending logs to splunk by /receivers/simple
