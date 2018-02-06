@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>NLog.Splunk.Simple</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <title>Target for NLog. Send logs to /services/receivers/simple</title>
     <authors>Dmitry Valeev</authors>
     <owners>Dmitry Valeev</owners>
@@ -11,9 +11,8 @@
     <description>Splunk Target for NLog for writing to /receivers/simple.</description>
     <releaseNotes>Send logs to https://{SPLUNKSERVER}:8089/services/receivers/simple</releaseNotes>
     <copyright>Copyright 2018</copyright>
-    <tags>NLog, splunk, receivers, simple</tags>
+    <tags>NLog, Splunk, receivers, simple</tags>
     <dependencies>
-      <dependency id="Newtonsoft.Json" version="10.0.3" />
       <dependency id="NLog" version="4.4.12" />
     </dependencies>
   </metadata>
