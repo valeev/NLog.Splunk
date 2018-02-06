@@ -1,7 +1,9 @@
 NLog.Splunk.Simple
 ===================
 
-NLog target for sending logs to splunk by /receivers/simple
+NLog target for sending logs to splunk by /receivers/simple 
+
+[![NuGet](https://img.shields.io/nuget/v/nlog.svg)](https://www.nuget.org/packages/NLog.Splunk.Simple)
 
 ----------
 
@@ -30,3 +32,7 @@ Configuration
 Don't forget to add your rule
 
     <logger name="*" writeTo="SplunkRestInfo" minLevel="Info" />
+
+How to create custom target for NLog:
+	https://github.com/nlog/nlog/wiki/How-to-write-a-custom-target
+	
