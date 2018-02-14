@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>NLog.Splunk.Simple</id>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <title>Target for NLog. Send logs to /services/receivers/simple</title>
     <authors>Dmitry Valeev</authors>
     <owners>Dmitry Valeev</owners>

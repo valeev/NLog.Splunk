@@ -4,6 +4,7 @@ NLog.Splunk.Simple
 NLog target for sending logs to splunk by /receivers/simple 
 
 [![NuGet](https://img.shields.io/nuget/v/nlog.svg)](https://www.nuget.org/packages/NLog.Splunk.Simple)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 ----------
 
